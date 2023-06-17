@@ -21,7 +21,9 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 ---
 ### Access Control
 
-* **[Local Trade LCT](https://twitter.com/LOCALTRADERSCL)** | 20230524 | $~384 BNB | [[numencyber](https://twitter.com/numencyber/status/1661213691893944320)] | [[Tx1](https://bscscan.com/tx/0x57b589f631f8ff20e2a89a649c4ec2e35be72eaecf155fdfde981c0fec2be5ba), [Tx2](https://bscscan.com/tx/0xbea605b238c85aabe5edc636219155d8c4879d6b05c48091cf1f7286bd4702ba), [Tx3](https://bscscan.com/tx/0x49a3038622bf6dc3672b1b7366382a2c513d713e06cb7c91ebb8e256ee300dfb), [Tx4](https://bscscan.com/tx/0x042b8dc879fa193acc79f55a02c08f276eaf1c4f7c66a33811fce2a4507cea63)] | [[POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/LocalTrader_exp.sol), [POC2](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/LocalTrader2_exp.sol)] | _
+* **DEPUSDT_LEVUSDC** | 20230615 | $105k | [[numencyber](https://twitter.com/numencyber/status/1669278694744150016?cxt=HHwWgMDS9Z2IvKouAAAA), [Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1669290094585577474), [BeosinAlert](https://twitter.com/BeosinAlert/status/1669288074784718849)] | [[Tx1](https://etherscan.io/tx/0xf0a13b445674094c455de9e947a25bade75cac9f5176695fca418898ea25742f) , [Tx2](https://etherscan.io/tx/0x800a5b3178f680feebb81af69bd3dff791b886d4ce31615e601f2bb1f543bb2e)] | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/DEPUSDT_LEVUSDC_exp.sol) | _
+
+* **[Local Trade LCT](https://twitter.com/LOCALTRADERSCL)** | 20230524 | $~384 BNB | [[numencyber](https://twitter.com/numencyber/status/1661213691893944320)] | [[Tx1](https://bscscan.com/tx/0x57b589f631f8ff20e2a89a649c4ec2e35be72eaecf155fdfde981c0fec2be5ba), [Tx2](https://bscscan.com/tx/0xbea605b238c85aabe5edc636219155d8c4879d6b05c48091cf1f7286bd4702ba), [Tx3](https://bscscan.com/tx/0x49a3038622bf6dc3672b1b7366382a2c513d713e06cb7c91ebb8e256ee300dfb), [Tx4](https://bscscan.com/tx/0x042b8dc879fa193acc79f55a02c08f276eaf1c4f7c66a33811fce2a4507cea63)] | [[POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/LocalTrader_exp.sol), [POC2](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/LocalTrader2_exp.sol) | _
 
 * **landNFT** | 20230514 | $149.6K | [[BeosinAlert](https://twitter.com/BeosinAlert/status/1658000784943124480)] | [Transaction](https://bscscan.com/tx/0xe4db1550e3aa78a05e93bfd8fbe21b6eba5cce50dc06688949ab479ebed18048) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/landNFT_exp.sol) | nft mint
 
@@ -130,6 +132,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 * **[BabySwap](https://twitter.com/babyswap_bsc)** | 20221001 | - | [[BlockSecTeam](https://twitter.com/BlockSecTeam/status/1576441612812836865)] | [Transaction](https://bscscan.com/tx/0xcca7ea9d48e00e7e32e5d005b57ec3cac28bc3ad0181e4ca208832e62aa52efe) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/BabySwap_exp.sol) | _fake-router_
 
 ### Price Manipulation
+
+* **[CFC](https://twitter.com/safeanwang)** | 20230615 | $16k | [[Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1669556040445362176), [hexagate_](https://twitter.com/hexagate_/status/1669280632738906113), [HypernativeLabs](https://twitter.com/HypernativeLabs/status/1669243919450636289)] | [Transaction](https://explorer.phalcon.xyz/tx/bsc/0xa3c130ed8348919f73cbefce0f22d46fa381c8def93654e391ddc95553240c1e) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/CFC_exp.sol) | _skim_
 
 * **[UN]()** | 20230606 | $26k | [[MetaTrustAlert](https://twitter.com/MetaTrustAlert/status/1667041877428932608)] | [Transaction](https://bscscan.com/tx/0xff5515268d53df41d407036f547b206e288b226989da496fda367bfeb31c5b8b) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/UN_exp.sol) | _skim_
 
