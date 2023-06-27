@@ -57,6 +57,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Arbitrary External Call Vulnerability
 
+* **[MIMSpell](https://twitter.com/MIM_Spell)** | 20230620 | ~$17k | [[hexagate_](https://twitter.com/hexagate_/status/1671188024607100928?cxt=HHwWgMC--e2poLEuAAAA)] | [Transaction](https://etherscan.io/tx/0x2c9f87e285026601a2c8903cf5f10e5b3655fbd0264490c41514ce073c42a9c3) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/MIMSpell_exp.sol) | _
+
 * **[RevertFinance](https://twitter.com/revertfinance)** | 20230218 | ~$30k | [[Mirror.xyz](https://mirror.xyz/revertfinance.eth/3sdpQ3v9vEKiOjaHXUi3TdEfhleAXXlAEWeODrRHJtU)] | [Transaction](https://etherscan.io/tx/0xdaccbc437cb07427394704fbcc8366589ffccf974ec6524f3483844b043f31d5) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/RevertFinance_exp.sol) | _
 
 * **[Dexible](https://twitter.com/DexibleApp)** | 20230217 | ~$1.5M | [[peckshield](https://twitter.com/peckshield/status/1626493024879673344), [MevRefund](https://twitter.com/MevRefund/status/1626450002254958592)] | [Transaction](https://etherscan.io/tx/0x138daa4cbeaa3db42eefcec26e234fc2c89a4aa17d6b1870fc460b2856fd11a6) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Dexible_exp.sol) | _
