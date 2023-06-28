@@ -229,6 +229,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Reflection token
 
+* **BUNN** | 20230621 | $52BNB | [[DecurityHQ](https://twitter.com/DecurityHQ/status/1671803688996806656)] | [Transaction](https://bscscan.com/tx/0x24a68d2a4bbb02f398d3601acfd87b09f543d935fc24862c314aaf64c295acdb) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/BUNN_exp.sol) | _
+
 * **[OLIFE](https://twitter.com/OceanLifeToken)** | 20230419 | $32BNB | [[BeosinAlert](https://twitter.com/BeosinAlert/status/1648520494516420608)] | [Transaction](https://bscscan.com/tx/0xa21692ffb561767a74a4cbd1b78ad48151d710efab723b1efa5f1e0147caab0a) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/OLIFE_exp.sol) | _
 
 * **[BIGFI](https://twitter.com/bigfinancetech)** | 20230322 | $30k | [[HypernativeLabs](https://twitter.com/HypernativeLabs/status/1638522680654675970)] | [Transaction](https://bscscan.com/tx/0x9fe19093a62a7037d04617b3ac4fbf5cb2d75d8cb6057e7e1b3c75cbbd5a5adc) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/BIGFI_exp.sol) | _
