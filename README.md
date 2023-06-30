@@ -611,5 +611,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 ### wrong implemention
 * **[DEI](https://twitter.com/cmichelio/status/1646422861219807233)** | 20230505 | $5.4M | [[eugenioclrc](https://twitter.com/eugenioclrc/status/1654576296507088906)] | [Transaction](https://arbiscan.io/tx/0xb1141785b7b94eb37c39c37f0272744c6e79ca1517529fec3f4af59d4c3c37ef) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/DEI_exp.sol) | _
 
+### Lack Slippage Protection
+* **[BabyDogeCoin02](https://twitter.com/BabyDogeCoin)** | 20230621 | $441BNB | [[hexagate_](https://twitter.com/hexagate_/status/1671517819840745475)] | [Transaction](https://bscscan.com/tx/0xbaf3e4841614eca5480c63662b41cd058ee5c85dc69198b29e7ab63b84bc866c) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/BabyDogeCoin02_exp.sol) | _
+
 ## notes:
 * In most cases, `Flashloan` are not the root cause of attacks; they are merely a lending method. If an attack cannot be executed `without` the step of a Flashloan, only then it can been classified as a `Flashloan attack`.
