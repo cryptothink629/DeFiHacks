@@ -77,6 +77,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Business Logic Flaw
 
+* **[ShidoGlobal](https://twitter.com/ShidoGlobal)** | 20230623 | $997BNB | [[Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1672473343734480896), [AnciliaInc](https://twitter.com/AnciliaInc/status/1672382613473083393)] | [Transaction](https://bscscan.com/tx/0x72f8dd2bcfe2c9fbf0d933678170417802ac8a0d8995ff9a56bfbabe3aa712d6) | [[POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/SHIDO_exp.sol), [POC2](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/ShidoGlobal_exp.sol)] | _different-price-between-two-pools_
+
 * **[LFI Token](https://twitter.com/LunaFi_Project)** | 20230523 | $36K | [[AnciliaInc](https://twitter.com/AnciliaInc/status/1660767088699666433)] | [Transaction](https://polygonscan.com/tx/0xdd82fde0cc2fb7bdc078aead655f6d5e75a267a47c33fa92b658e3573b93ef0c) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/LFI_exp.sol) | _
 
 * **[Bitpaidio](https://twitter.com/bitpaidio)** | 20230513 | $30K | [[BlockSecTeam](https://twitter.com/BlockSecTeam/status/1657715018908180480)] | [Transaction](https://bscscan.com/tx/0xace112925935335d0d7460a2470a612494f910467e263c7ff477221deee90a2c) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Bitpaidio_exp.sol) | _
