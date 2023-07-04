@@ -139,6 +139,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Price Manipulation
 
+* **[Themis](https://twitter.com/ThemisProtocol)** | 20230628 | $370k | [[BeosinAlert](https://twitter.com/BeosinAlert/status/1673930979348717570), [BlockSecTeam](https://twitter.com/BlockSecTeam/status/1673897088617426946)] | [Transaction](https://arbiscan.io/tx/0xff368294ccb3cd6e7e263526b5c820b22dea2b2fd8617119ba5c3ab8417403d8) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Themis_exp.sol) | _
+
 * **[CFC](https://twitter.com/safeanwang)** | 20230615 | $16k | [[Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1669556040445362176), [hexagate_](https://twitter.com/hexagate_/status/1669280632738906113), [HypernativeLabs](https://twitter.com/HypernativeLabs/status/1669243919450636289)] | [Transaction](https://explorer.phalcon.xyz/tx/bsc/0xa3c130ed8348919f73cbefce0f22d46fa381c8def93654e391ddc95553240c1e) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/CFC_exp.sol) | _skim_
 
 * **[UN]()** | 20230606 | $26k | [[MetaTrustAlert](https://twitter.com/MetaTrustAlert/status/1667041877428932608)] | [Transaction](https://bscscan.com/tx/0xff5515268d53df41d407036f547b206e288b226989da496fda367bfeb31c5b8b) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/UN_exp.sol) | _skim_
