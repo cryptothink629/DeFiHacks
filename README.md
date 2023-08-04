@@ -185,6 +185,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Reentrancy
 
+* **[Curve](https://twitter.com/CurveFinance)** | 20230730 | $41M | [[LlamaRisk](https://hackmd.io/@LlamaRisk/BJzSKHNjn)] | [Transaction](https://etherscan.io/tx/0xa84aa065ce61dbb1eb50ab6ae67fc31a9da50dd2c74eefd561661bfce2f1620c) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Curve_exp01.sol) | _JPEG_
+
 * **[Paribus](https://twitter.com/paribus_io)** | 20230411 | $100k | [[Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1645742620897955842), [BlockSecTeam](https://twitter.com/BlockSecTeam/status/1645744655357575170), [peckshield](https://twitter.com/peckshield/status/1645742296904929280)] | [Transaction](https://arbiscan.io/tx/0x0e29dcf4e9b211a811caf00fc8294024867bffe4ab2819cc1625d2e9d62390af) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Paribus_exp.sol) | _CompoundV2_
 
 * **[Sentiment](https://twitter.com/sentimentxyz)** | 20230405 | $1M | [[peckshield](https://twitter.com/peckshield/status/1643417467879059456), [spreekaway](https://twitter.com/spreekaway/status/1643313471180644360), [Coinmonks](https://medium.com/coinmonks/theoretical-practical-balancer-and-read-only-reentrancy-part-1-d6a21792066c)] | [Transaction](https://arbiscan.io/tx/0xa9ff2b587e2741575daf893864710a5cbb44bb64ccdc487a100fa20741e0f74d) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Sentiment_exp.sol) | _Read-Only_
