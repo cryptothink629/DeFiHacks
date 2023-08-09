@@ -21,6 +21,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 ---
 ### Access Control
 
+* **[LeetSwap](https://twitter.com/LeetSwap)** | 20230801 | $630K | [[BlockSecTeam](https://twitter.com/BlockSecTeam/status/1686217464051539968), [peckshield](https://twitter.com/peckshield/status/1686209024587710464)] | [Transaction](https://basescan.org/tx/0xbb837d417b76dd237b4418e1695a50941a69259a1c4dee561ea57d982b9f10ec) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Leetswap_exp.sol) | _
+
 * **[ARA](https://twitter.com/AraBlocks)** | 20230618 | $125K | [[BeosinAlert](https://twitter.com/BeosinAlert/status/1670638160550965248), [Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1670700964272295936)] | [Transaction](https://bscscan.com/tx/0xd87cdecd5320301bf9a985cc17f6944e7e7c1fbb471c80076ef2d031cc3023b2) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/ARA_exp.sol) | _
 
 * **DEPUSDT_LEVUSDC** | 20230615 | $105k | [[numencyber](https://twitter.com/numencyber/status/1669278694744150016?cxt=HHwWgMDS9Z2IvKouAAAA), [Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1669290094585577474), [BeosinAlert](https://twitter.com/BeosinAlert/status/1669288074784718849)] | [[Tx1](https://etherscan.io/tx/0xf0a13b445674094c455de9e947a25bade75cac9f5176695fca418898ea25742f) , [Tx2](https://etherscan.io/tx/0x800a5b3178f680feebb81af69bd3dff791b886d4ce31615e601f2bb1f543bb2e)] | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/DEPUSDT_LEVUSDC_exp.sol) | _
