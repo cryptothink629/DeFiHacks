@@ -141,6 +141,10 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Price Manipulation
 
+* **[Uwerx](https://twitter.com/uwerx_network)** | 20230802 | $174ETH | [[deeberiroz](https://twitter.com/deeberiroz/status/1686683788795846657)] | [Transaction](https://etherscan.io/tx/0x3b19e152943f31fe0830b67315ddc89be9a066dc89174256e17bc8c2d35b5af8) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Uwerx_exp.sol) | _
+
+* **[Neutrafinance](https://twitter.com/Neutrafinance)** | 20230801 | $23ETH | [[phalcon_xyz](https://twitter.com/phalcon_xyz/status/1686654241111429120)] | [Transaction](https://arbiscan.io/tx/0x6301d4c9f7ac1c96a65e83be6ea2fff5000f0b1939ad24955e40890bd9fe6122) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/NeutraFinance_exp.sol) | _
+
 * **[Themis](https://twitter.com/ThemisProtocol)** | 20230628 | $370k | [[BeosinAlert](https://twitter.com/BeosinAlert/status/1673930979348717570), [BlockSecTeam](https://twitter.com/BlockSecTeam/status/1673897088617426946)] | [Transaction](https://arbiscan.io/tx/0xff368294ccb3cd6e7e263526b5c820b22dea2b2fd8617119ba5c3ab8417403d8) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Themis_exp.sol) | _
 
 * **[CFC](https://twitter.com/safeanwang)** | 20230615 | $16k | [[Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1669556040445362176), [hexagate_](https://twitter.com/hexagate_/status/1669280632738906113), [HypernativeLabs](https://twitter.com/HypernativeLabs/status/1669243919450636289)] | [Transaction](https://explorer.phalcon.xyz/tx/bsc/0xa3c130ed8348919f73cbefce0f22d46fa381c8def93654e391ddc95553240c1e) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/CFC_exp.sol) | _skim_
