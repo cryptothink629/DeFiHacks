@@ -191,6 +191,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Reentrancy
 
+* **[EarningFram](https://twitter.com/EarningFarm)** | 20230809 | $154ETH | [[BeosinAlert](https://twitter.com/BeosinAlert/status/1689205260102094853), [Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1689182459269644288)] | [Transaction](https://etherscan.io/tx/0x6e6e556a5685980317cb2afdb628ed4a845b3cbd1c98bdaffd0561cb2c4790fa) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/EarningFram_exp.sol) | _ERC4626_
+
 * **[Curve](https://twitter.com/CurveFinance)** | 20230730 | $41M | [[LlamaRisk](https://hackmd.io/@LlamaRisk/BJzSKHNjn)] | [Transaction](https://etherscan.io/tx/0xa84aa065ce61dbb1eb50ab6ae67fc31a9da50dd2c74eefd561661bfce2f1620c) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Curve_exp01.sol) | _JPEG_
 
 * **[Paribus](https://twitter.com/paribus_io)** | 20230411 | $100k | [[Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1645742620897955842), [BlockSecTeam](https://twitter.com/BlockSecTeam/status/1645744655357575170), [peckshield](https://twitter.com/peckshield/status/1645742296904929280)] | [Transaction](https://arbiscan.io/tx/0x0e29dcf4e9b211a811caf00fc8294024867bffe4ab2819cc1625d2e9d62390af) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Paribus_exp.sol) | _CompoundV2_
