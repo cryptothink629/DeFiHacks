@@ -123,6 +123,8 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 
 ### Input Validation
 
+* **[GYMNET](https://twitter.com/GymNet_Official)** | 20230731 | ~unclear | [[AnciliaInc](https://twitter.com/AnciliaInc/status/1686605510655811584)] | [[Transaction](https://bscscan.com/tx/0x7fe96c00880b329aa0fcb00f0ef3a0766c54e13965becf9cc5e0df6fbd0deca6)] | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/GYMNET_exp.sol) | _fake-token_
+
 * **[BabyDogeCoin](https://twitter.com/TrustTheTrident)** | 20230529 | ~135k | [[Phalcon_xyz](https://twitter.com/Phalcon_xyz/status/1662744426475831298)] | [[Transaction](https://bscscan.com/tx/0x098e7394a1733320e0887f0de22b18f5c71ee18d48a0f6d30c76890fb5c85375)] | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/BabyDogeCoin_exp.sol) | _
 
 * **[SellToken](https://twitter.com/TrustTheTrident)** | 20230514 | ~unknow | [[BlockSecTeam](https://twitter.com/BlockSecTeam/status/1657715018908180480)] | [[Transaction](https://bscscan.com/tx/0xfe80df5d689137810df01e83b4bb51409f13c865e37b23059ecc6b3d32347136), [Transaction2](https://bscscan.com/tx/0x8a453c61f0024e8e11860729083088507a02a38100da8b0c3b2d558788662fa0)] | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/SELLC02_exp.sol) | _
