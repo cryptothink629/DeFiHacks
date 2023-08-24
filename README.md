@@ -478,6 +478,9 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 * **[ElephantMoney](https://twitter.com/ElephantStatus)** | 20220412 | $11.2 million (27,416.46 BNB) | [[ElephantMoney](https://medium.com/elephant-money/reserve-exploit-52fd36ccc7e8)] [[peckshield](https://twitter.com/peckshield/status/1514023036596330496)] [[BlockSecTeam](https://twitter.com/BlockSecTeam/status/1513966074357698563)]| [[Transaction](https://bscscan.com/tx/0xec317deb2f3efdc1dbf7ed5d3902cdf2c33ae512151646383a8cf8cbcd3d4577)] ｜[POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Saddle_exp.sol) | _
 
 ### Signature replay
+
+* **[MintoFinance** | 20230723 | $9K | [[bbbb](https://twitter.com/bbbb/status/1683180340548890631?s=20)]| [[Transaction](https://bscscan.com/tx/0x53be95dc8ffbc80060215133f76f48df35deef3cd7e1803e24b1e2f8aa53440b)] ｜[POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/MintoFinance_exp.sol) | _
+
 * **[Wintermute](https://twitter.com/wintermute_t)** | 20220608 | 20 million Optimism (OP) tokens (returned 17 million) | [[inspexco](https://inspexco.medium.com/how-20-million-op-was-stolen-from-the-multisig-wallet-not-yet-owned-by-wintermute-3f6c75db740a)] | [Transaction1](https://optimistic.etherscan.io/tx/0x75a42f240d229518979199f56cd7c82e4fc1f1a20ad9a4864c635354b4a34261), [Transaction2](https://optimistic.etherscan.io/tx/0x00a3da68f0f6a69cb067f09c3f7e741a01636cbc27a84c603b468f65271d415b) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/Optimism_exp.sol) | _
 
 ### Skim token balance
