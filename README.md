@@ -430,6 +430,9 @@ project(twitter) | date | value | analysis | transaction | poc | notes
 * **[XSTABLE Protocol](https://xstable.finance/)** | 20220810 | 27.13 WETH | [[BlockSecTeam](https://mobile.twitter.com/BlockSecTeam/status/1557195012042936320)] | [Transaction](https://etherscan.io/tx/0x873f7c77d5489c1990f701e9bb312c103c5ebcdcf0a472db726730814bfd55f3) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/XST.exp.sol) | _
 
 ### Skim token balance
+
+* **GSS** | 20230824 | ~25K | [[bbbb](https://twitter.com/bbbb/status/1694571228185723099)] | [Transaction](https://bscscan.com/tx/0x4f8cb9efb3cc9930bd38af5f5d34d15ce683111599a80df7ae50b003e746e336) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/GSS_exp.sol) | _
+
 * **[ANCH](https://twitter.com)** | 20220809 | - | [[AnciliaInc](https://twitter.com/AnciliaInc/status/1557527183966408706)] | [Contract](https://bscscan.com/address/0xa4f5d4afd6b9226b3004dd276a9f778eb75f2e9e#code) | [POC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/src/test/ANCH_exp.sol) | _
 
 
